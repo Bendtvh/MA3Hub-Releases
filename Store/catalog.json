@@ -2,17 +2,17 @@
   "format": 1,
   "modules": [],
   "app": {
-    "version": "1.11.0",
+    "version": "1.12.0",
     "files": {
       "mac-arm64": {
-        "file": "Store/app/MA3Hub-1.11.0-mac-arm64.zip",
-        "size": 1509721,
-        "sha256": "6ef74a86a83c418458974a80185763b88a6730b6588bf3e31ffd725f28f5c038"
+        "file": "Store/app/MA3Hub-1.12.0-mac-arm64.zip",
+        "size": 1501858,
+        "sha256": "3ae519be2dd9150117801195dacf30efd3f5f4fe5bab5861e26d288e2e6cf883"
       },
       "win-x64": {
-        "file": "Store/app/MA3Hub-1.11.0-win-x64.zip",
-        "size": 606752,
-        "sha256": "88b6962620e95ada2154b46f823ef627525a1c8fbe2fd7326864f61ae9d7113a"
+        "file": "Store/app/MA3Hub-1.12.0-win-x64.zip",
+        "size": 605320,
+        "sha256": "8e5d2b76d895c2bd97b325b0392e882799b78222d32918c138566e00b3c9aabd"
       }
     }
   }
